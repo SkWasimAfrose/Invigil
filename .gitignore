@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Build Files
+build/
+dist/
+*.spec
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Evidence
+evidence/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Release Builds
+Invigil_v1.0/
+*.exe
